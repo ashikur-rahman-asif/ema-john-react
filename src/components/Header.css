@@ -1,4 +1,20 @@
 .header{
     height: 80px;
     background-color: #1C2B35;
+    display: flex;
+    justify-content:space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+}
+/* .ahref{
+    
+} */
+.ahref a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 30px;
+}
+.ahref a:hover{
+    color: orange;
 }
